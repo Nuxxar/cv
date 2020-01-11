@@ -102,13 +102,23 @@ ul {
 }
 
 .skill-row {
-width: 50%;
-margin: auto;
+  width: 50%;
+  margin: auto;
 }
 
 .cv-row {
-width: 50%;
-margin: auto;
+  width: 50%;
+  margin: auto;
+}
+
+.intro {
+  width: 40%;
+  margin:auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin:20px auto;
 }
 
 .top-cloud {
